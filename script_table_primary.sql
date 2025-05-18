@@ -1,3 +1,11 @@
+/*
+čtvrtý projekt do Engeto Online Akademie
+
+author: Michaela Schmiedová
+email: michaela.schmiedova@email.cz
+discord: misa_47996
+*/
+
 -- priprava view pro prumerne mzdy v odvetvich dle let a kvartalu
 CREATE OR REPLACE VIEW prumerna_mzda_x_odvetvi AS (
 	SELECT

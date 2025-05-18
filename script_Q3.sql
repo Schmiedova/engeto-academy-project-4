@@ -1,3 +1,11 @@
+/*
+čtvrtý projekt do Engeto Online Akademie
+
+author: Michaela Schmiedová
+email: michaela.schmiedova@email.cz
+discord: misa_47996
+*/
+
 -- vyber prumerne ceny potravin za soucasny a predchozi rok vcetne mezirocniho narustu/poklesu cen
 WITH prumerne_ceny_potravin AS (
 	SELECT

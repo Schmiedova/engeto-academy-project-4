@@ -1,3 +1,11 @@
+/*
+čtvrtý projekt do Engeto Online Akademie
+
+author: Michaela Schmiedová
+email: michaela.schmiedova@email.cz
+discord: misa_47996
+*/
+
 -- priprava tabulky s detaily o evropskych statech
 CREATE TABLE t_michaela_schmiedova_project_SQL_secondary_final AS (
 	SELECT

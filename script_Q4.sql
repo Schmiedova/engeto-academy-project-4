@@ -1,3 +1,11 @@
+/*
+čtvrtý projekt do Engeto Online Akademie
+
+author: Michaela Schmiedová
+email: michaela.schmiedova@email.cz
+discord: misa_47996
+*/
+
 -- kontrola dat pro moznost vyuziti vazeneho prumeru
 WITH prumerna_mzda_rok AS (
 	-- vypocet prumerne mzdy napric obory a lety (zprumerovani napric rocnimi kvartaly)

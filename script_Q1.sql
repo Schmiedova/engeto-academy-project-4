@@ -1,3 +1,11 @@
+/*
+čtvrtý projekt do Engeto Online Akademie
+
+author: Michaela Schmiedová
+email: michaela.schmiedova@email.cz
+discord: misa_47996
+*/
+
 -- kontrola datasetu zda neobsahuje prazdne hodnoty
 SELECT COUNT(*) AS pocet_null
 FROM t_michaela_schmiedova_project_SQL_primary_final

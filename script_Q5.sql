@@ -1,3 +1,11 @@
+/*
+čtvrtý projekt do Engeto Online Akademie
+
+author: Michaela Schmiedová
+email: michaela.schmiedova@email.cz
+discord: misa_47996
+*/
+
 -- priprava view pro ulozeni vypoctu prumerne rocni ceny potravin
 CREATE OR REPLACE VIEW rocni_prumerna_cena_potravin AS
 	WITH prumerne_ceny_potravin AS (
